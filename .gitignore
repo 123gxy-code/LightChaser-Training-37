@@ -1,1 +1,16 @@
 .env
+
+*.exe
+*.o
+*.out
+a.out
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+.vxcode/
+.idea/
+.DS_Store
+Thumbs.db
