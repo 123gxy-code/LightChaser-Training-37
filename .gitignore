@@ -10,7 +10,7 @@ __pycache__/
 .venv/
 venv/
 
-.vxcode/
+.vscode/
 .idea/
 .DS_Store
 Thumbs.db
